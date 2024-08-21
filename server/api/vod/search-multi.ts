@@ -4,43 +4,8 @@ const vodApiEndpoints = [
     {
         "key": "ikunzy",
         "name": "爱坤联盟资源网",
-        "api": "https://ikunzyapi.com/api.php/provide/vod",
-        "playUrl": "https://www.ikdmjx.com/?url=",
-        "type": "json"
-    },
-    {
-        "key": "haiwaikan",
-        "name": "海外看(外)",
-        "api": "https://api.haiwaikan.com/v1/vod",
-        "playUrl": "https://dp.haiwaikan.com/index.html?url=",
-        "type": "json"
-    },
-    {
-        "key": "moduzy",
-        "name": "魔都资源网",
-        "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-        "playUrl": "https://jiexi.modujx01.com/?url=",
-        "type": "json"
-    },
-    {
-        "key": "haohuazy",
-        "name": "豪华资源",
-        "api": "https://hhzyapi.com/api.php/provide/vod",
-        "playUrl": "https://hhjiexi.com/play/?url=",
-        "type": "json"
-    },
-    {
-        "key": "kuaikanzy",
-        "name": "快看资源",
-        "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan",
-        "playUrl": "https://kkzyplayer.com/player/?url=",
-        "type": "json"
-    },
-    {
-        "key": "qihuzy",
-        "name": "奇虎资源",
-        "api": "https://caiji.qhzyapi.com/api.php/provide/vod",
-        "playUrl": "https://jiexi.qhzyapi.com/dp/?url=",
+        "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
+        "playUrl": "https://player.77lehuo.com/aliplayer/?url=",
         "type": "json"
     }
 ]
