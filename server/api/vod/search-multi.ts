@@ -4,7 +4,7 @@ const vodApiEndpoints = [
     {
         "key": "ikunzy",
         "name": "爱坤联盟资源网",
-        "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
+        "api": "https://api.apilyzy.com/api.php/provide/vod",
         "playUrl": "https://player.77lehuo.com/aliplayer/?url=",
         "type": "json"
     }
